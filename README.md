@@ -1,16 +1,4 @@
-# advanc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Unit_Testing_Basic_Counter_App
+## Flutter Unit Testing Basics
+### Project Overview
+This project demonstrates fundamental Flutter unit testing concepts using a simple Counter example. It serves as a practical introduction to test-driven development in Flutter, with a focus on proper test organization and lifecycle methods.
